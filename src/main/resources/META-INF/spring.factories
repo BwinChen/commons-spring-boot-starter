@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.bwin.commons.config.MD5AutoConfiguration
